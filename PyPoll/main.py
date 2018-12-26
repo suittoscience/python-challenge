@@ -1,8 +1,8 @@
 import csv
 import os
 
-csvpath = os.path.join = "C:/Users/suitt/Documents/UCFBOOTCAMP_HW/Anthony_HW3/python-challenge/PyPoll/election_data.csv"
-csvpath_output = "C:/Users/suitt/Documents/UCFBOOTCAMP_HW/Anthony_HW3/python-challenge/PyPoll/election_data.txt"
+csvpath = os.path.join("python-challenge/PyPoll/election_data.csv")
+csvpath_output = ("python-challenge/PyPoll/election_data.txt")
 
 votes = 0
 winner_votes = 0

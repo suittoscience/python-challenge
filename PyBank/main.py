@@ -2,8 +2,8 @@ import csv
 import os
 
 #path to collect data
-csvpath = os.path.join = "C:/Users/suitt/Documents/UCFBOOTCAMP_HW/Anthony_HW3/python-challenge/PyBank/budget_data.csv"
-csvpath_output = "C:/Users/suitt/Documents/UCFBOOTCAMP_HW/Anthony_HW3/python-challenge/PyBank/budget_data.txt"
+csvpath = os.path.join("python-challenge/PyBank/budget_data.csv")
+csvpath_output = ("python-challenge/PyBank/budget_data.txt")
 
 # Variables to Track
 total_months = 0
